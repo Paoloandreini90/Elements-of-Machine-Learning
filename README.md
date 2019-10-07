@@ -7,7 +7,7 @@ In the folder jupyter_notebook there are the dataset and Python code divided by 
 
 1. Linear and Logistic regression
 2. Lasso and Ridge regression
-3. PCA
+3. PCA and Factor Analysis
 4. Regression and Classifier Tree
 5. Random Forest 
 6. Neural Network
